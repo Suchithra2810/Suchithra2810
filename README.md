@@ -1,7 +1,6 @@
 <div align="center">
   <h4><em>"Empowered by Data, Driven by Curiosity"</em></h4>
-<img src="https://easy-peasy.ai/ai-image-generator/images/animated-black-female-data-analyst-gif" width="300" alt="Female Data Analyst GIF"/>
-
+ <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 
   <h1>Hi, I'm Suchithra C </h1>
