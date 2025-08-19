@@ -1,6 +1,8 @@
 <div align="center">
   <h4><em>"Empowered by Data, Driven by Curiosity"</em></h4>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW52YW5jYnd4aWNvYW5zdnY3b3NpdGF5OWJqdDZ3bDQ0M2l6cDZzYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aAx2QM3S3i4Bi/giphy.gif" width="300" alt="Feminine Data GIF"/>
+<img src="https://easy-peasy.ai/ai-image-generator/images/animated-black-female-data-analyst-gif" width="300" alt="Female Data Analyst GIF"/>
+
+
 
   <h1>Hi, I'm Suchithra C </h1>
   <h3>📊 Data Enthusiast | SQL & Power BI Lover | Excel & Tableau Explorer</h3>
