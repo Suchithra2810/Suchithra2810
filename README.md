@@ -63,7 +63,8 @@
 ### 📊 Power BI Projects 
 
 - 💼 **Adidas Sales Analysis**: Revenue trends, region-wise breakdown  
-- 🧍‍♀️ **SuperStore Analytics Dashboard**: Employee attrition & engagement  
+- 🧍‍♀️ **SuperStore Analytics Dashboard**: Employee attrition & engagement
+-  
 Stay tuned for interactive visuals powered by Power BI!
 
 ---
